@@ -1,8 +1,9 @@
 {
   "name": "success-custom-modal",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A reusable modal component for React",
-  "main": "src/ModalComponent/index.js",
+  "main": "dist/index.js",
+   "typings": "src/index",
   "repository": {
     "type": "git",
     "url": "https://github.com/johary1/success-modal.git"
