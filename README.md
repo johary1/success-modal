@@ -5,7 +5,7 @@ A reusable modal component for React.
 ## Installation
 
 ```bash
-npm install my-modal-package
+npm install success-custom-modal
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ First, import the `ModalComponent` into your React component file:
 
 ```javascript
 import React, { useState } from "react";
-import { ModalComponent } from "my-modal-package";
+import { ModalComponent } from "success-custom-modal";
 ```
 
 ### Using the ModalComponent
@@ -52,8 +52,8 @@ Customize this example to fit your application's needs. The `show` prop controls
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ```
-
+This is for educational purpose so feel free to reuse it and adapt for your personal need
 ```

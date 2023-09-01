@@ -1,6 +1,6 @@
 {
   "name": "success-custom-modal",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A reusable modal component for React",
   "main": "src/ModalComponent/index.js",
   "repository": {
@@ -8,7 +8,12 @@
     "url": "https://github.com/johary1/success-modal.git"
   },
   "author": "Johary",
-  "keywords": ["react", "modal", "component", "popup"],
+  "keywords": [
+    "react",
+    "modal",
+    "component",
+    "popup"
+  ],
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -43,9 +48,9 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.22.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
-  
   }
 }
