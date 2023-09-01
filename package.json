@@ -1,6 +1,6 @@
 {
   "name": "success-custom-modal",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A reusable modal component for React",
   "main": "src/ModalComponent/index.js",
   "repository": {
